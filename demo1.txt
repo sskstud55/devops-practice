@@ -1,1 +1,2 @@
-fie updated in feature1 branch
+file updated in feature1 branch
+//file updated in feature2
